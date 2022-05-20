@@ -1,0 +1,16 @@
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\bin\Debug\net5.0\Ex Fixacao M. Abstratos.exe
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\bin\Debug\net5.0\Ex Fixacao M. Abstratos.deps.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\bin\Debug\net5.0\Ex Fixacao M. Abstratos.runtimeconfig.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\bin\Debug\net5.0\Ex Fixacao M. Abstratos.runtimeconfig.dev.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\bin\Debug\net5.0\Ex Fixacao M. Abstratos.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\bin\Debug\net5.0\ref\Ex Fixacao M. Abstratos.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\bin\Debug\net5.0\Ex Fixacao M. Abstratos.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.csproj.AssemblyReference.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.AssemblyInfoInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.AssemblyInfo.cs
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\ref\Ex Fixacao M. Abstratos.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex Fixacao M. Abstratos\Ex Fixacao M. Abstratos\obj\Debug\net5.0\Ex Fixacao M. Abstratos.genruntimeconfig.cache
