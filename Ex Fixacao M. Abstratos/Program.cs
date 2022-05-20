@@ -50,22 +50,19 @@ namespace Ex_Fixacao_M._Abstratos
             Console.WriteLine();
 
 
+            double sum = 0;
+
             foreach (TaxPayer taxPayer in taxPayers)
             {
+                sum += taxPayer.Tax();
+
                 Console.WriteLine(taxPayer.Name + 
                     ": R$" + 
                     taxPayer.Tax().ToString("F2"));
             }
 
             Console.WriteLine();
-
-
-            double sum = 0;
-            foreach (TaxPayer taxPayer in taxPayers)
-            {
-                sum += taxPayer.Tax();
-            }
-            Console.WriteLine("Total das taxa: R$" + 
+            Console.WriteLine("Total das taxas: R$" + 
                 sum.ToString("F2"));
 
         }
